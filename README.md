@@ -128,7 +128,7 @@ RTL SCHEMATIC FOR HALF SUBTRACTOR
 **Output/TIMING Waveform**
 
 
-![Uploading Screenshot 2024-12-06 114005.png…]()
+![Screenshot 2024-12-06 115217](https://github.com/user-attachments/assets/5394bdb2-46d0-44eb-ba91-40f3fa9fb1c9)
 
 
 
